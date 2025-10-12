@@ -16,9 +16,9 @@ Email Me 👉 ✉️ surajkumar09464@gmail.com For Collaboration/Project or Anyt
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 
 # 💻 Skills:
