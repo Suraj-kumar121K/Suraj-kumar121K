@@ -3,15 +3,24 @@ I am Software Engineer || Data Analysis || Suraj Kumar from India
 
 Email Me 👉 ✉️ kumarsuraj2031k@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-👍 Working at a finance point, handling loans and customer support. /n
+👍 Working at a finance point, handling loans and customer support. 
+
 🔭 I’m a fresher on: Enter your project info here
+
 🌱 I’m currently learning: Enter your tech here
+
 👯 I’m looking to collaborate on: Enter your project name and info
+
 🤔 I’m looking for help with: Your project here
+
 💬 Ask me about: Collaboration, Tech Support
+
 📫 How to reach me: Enter your email here
+
 😄 Pronouns: suraj Kumar
+
 ⚡ Fun fact: I Love Me my mom
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sur7aj6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suraj_kumar_955) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-kumar-5048bb248) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/surajkumar7280) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajkumar0964@gmail.com) 
 
