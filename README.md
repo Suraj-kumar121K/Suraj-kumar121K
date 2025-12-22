@@ -3,8 +3,8 @@ I am Software Engineer || Data Analysis || Suraj Kumar from India
 
 Email Me 👉 ✉️ kumarsuraj2031k@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
+👍 Working at a finance point, handling loans and customer support. /n
 🔭 I’m a fresher on: Enter your project info here
-👍 Working at a finance point, handling loans and customer support. 
 🌱 I’m currently learning: Enter your tech here
 👯 I’m looking to collaborate on: Enter your project name and info
 🤔 I’m looking for help with: Your project here
