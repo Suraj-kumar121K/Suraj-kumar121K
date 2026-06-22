@@ -52,3 +52,10 @@ Email Me 👉 ✉️ kumarsuraj2031k@gmail.com For Collaboration/Project or Anyt
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Suraj Kumar**, also known as **Data Analysis**. I’m Data Analyst, focused on mastering Pandas for data analysis through hands-on and practical learning.
